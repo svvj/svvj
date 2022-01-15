@@ -1,7 +1,9 @@
-### Hi there 👋
 
 <!--
 **svvj/svvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![svvj's GitHub stats](https://github-readme-stats.vercel.app/api?username=svvj&show_icons=true&theme=material-palenight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svvj&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://www.instagram.com/seungwonjeong/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/seungwonjeong/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
