@@ -14,15 +14,4 @@
 - Mixed / augmented reality and immersive XR
 - Visual effects (VFX) and deep learning for graphics
 
-### 📄 Selected publications
-- **Perceptual Thresholds of Sample Counts in AI-Augmented 3D Gaussian Splatting** — IEEE VR 2026
-- **Free-View XR Tours Using 3D Gaussian Splatting with an Avatar Guide** — IEEE VR 2026
-- **Flashover: Spatial Storytelling of Wildfire from Memory to Spatial Experience** — ACM SIGGRAPH 2026
-- **How Many Are Enough? Effective Sample Counts in NeRF and 3DGS** — IEEE ISMAR 2025
-
-Full list on my [website](https://svvj.github.io/publications/) and [Google Scholar](https://scholar.google.com/citations?user=hoz7NGwAAAAJ&hl=ko).
-
----
-
-![svvj's GitHub stats](https://github-readme-stats.vercel.app/api?username=svvj&show_icons=true&theme=material-palenight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svvj&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/svvj)
+📫 More about my research on my [website](https://svvj.github.io) and [Google Scholar](https://scholar.google.com/citations?user=hoz7NGwAAAAJ&hl=ko).
